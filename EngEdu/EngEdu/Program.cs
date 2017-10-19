@@ -14,6 +14,7 @@ namespace EngEdu
             Console.WriteLine("Year 255x semester 2,I learn to program in C sharp.");
             Console.WriteLine("Year 256x semester 1,I Start my programmer life.");
             Console.WriteLine("Year 256x semester 2,I learn to DATA STRUCTURE AND ALGORITHMS.");
+            Console.WriteLine("Year 256x semester 1,I Start to learn MICROCONTROLLER.");
         }
     }
 }
